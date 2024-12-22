@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI组件</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_imang">ImangActivity</string>
+    <string name="title_activity_carousel">CarouselActivity</string>
+    <string name="title_activity_widgets">WidgetsActivity</string>
+    <string name="title_activity_video">VideoActivity</string>
+</resources>
